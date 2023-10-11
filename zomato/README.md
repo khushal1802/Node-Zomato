@@ -11,7 +11,7 @@ MongoDB: A source-available cross-platform document-oriented database program, u
 Getting Started 🚀 :-
 Clone the repository :~ git clone https://github.com/khushal1802/Node-Zomato.git
 
-My Project :- (https://github.com/khushal1802.git)
+My Project :- (https://github.com/khushal1802/Node-Zomato.git)
 
 Install dependencies :- npm install
 
