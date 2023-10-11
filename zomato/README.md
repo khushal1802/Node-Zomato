@@ -9,7 +9,7 @@ Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine, used for d
 MongoDB: A source-available cross-platform document-oriented database program, used as the primary data storage system.
 
 Getting Started 🚀 :-
-Clone the repository :~ git clone https://github.com/khushal1802/Node-Zomato.git)
+Clone the repository :~ git clone https://github.com/khushal1802/Node-Zomato.git
 
 My Project :- (https://github.com/khushal1802/Node-Zomato.git)
 
