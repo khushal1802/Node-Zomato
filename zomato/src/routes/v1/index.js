@@ -1,0 +1,46 @@
+const express = require("express");
+const userRoute = require("./user.route");
+const tokenRoute = require("./token.route");
+const countryRoute = require("./country.route");
+const stateRoute = require("./state.route");
+const cityRoute = require("./city.route");
+const adminRoute = require("./admin.route");
+const bannerRoute = require("./banner.route");
+const blogRoute = require("./blog.route");
+const cartRoute = require("./cart.route");
+const contactRoute = require("./contact.route");
+const deliveryRoute = require("./delivery.route");
+const foodTypeRoute = require("./food-type.route");
+const foodRoute = require("./food.route");
+const orderRoute = require("./order.route");
+const ownerRoute = require("./owner.route");
+const paymentRoute = require("./payment.route");
+const restaurantRoute = require("./restaurant.route");
+const restaurantTypeRoute = require("./restaurant-type.route");
+const reviewsRoute = require("./reviews.route");
+const searchRoute = require("./search.route");
+
+const router = express.Router();
+
+router.use("/user", userRoute);
+router.use("/token", tokenRoute);
+router.use("/country", countryRoute);
+router.use("/state", stateRoute);
+router.use("/city", cityRoute);
+router.use("/admin", adminRoute);
+router.use("/banner", bannerRoute);
+router.use("/blog", blogRoute);
+router.use("/cart", cartRoute);
+router.use("/contact", contactRoute);
+router.use("/delivery", deliveryRoute);
+router.use("/foodType", foodTypeRoute);
+router.use("/food", foodRoute);
+router.use("/order", orderRoute);
+router.use("/owner", ownerRoute);
+router.use("/payment", paymentRoute);
+router.use("/restaurant", restaurantRoute);
+router.use("/restaurantType", restaurantTypeRoute);
+router.use("/reviews", reviewsRoute);
+router.use("/search", searchRoute);
+
+module.exports = router;
