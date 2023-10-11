@@ -11,6 +11,8 @@ MongoDB: A source-available cross-platform document-oriented database program, u
 Getting Started 🚀
 Clone the repository: git clone https://github.com/anurag-dobariya/zomato-backend-clone.git
 
+My Project :~ (https://github.com/khushal1802/Node-Zomato.git)
+
 Install dependencies: npm install
 
 Start the server:npm start
@@ -24,4 +26,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact 📧
 If you have any questions or suggestions, feel free to reach out!
 
-Happy Coding! 👩‍💻👨‍💻
+
+😅
